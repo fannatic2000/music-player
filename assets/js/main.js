@@ -80,6 +80,12 @@ const app = {
             path: 'https://f9-stream.nixcdn.com/NhacCuaTui1022/1BanNhacBuon-BRay-7090779.mp3?st=mrRCBNbAVnlZvS9KaYKP9Q&e=1632020724',
             image: 'https://avatar-nct.nixcdn.com/song/2021/09/17/5/a/b/4/1631868454393_300.jpg'
         },
+        {
+            name: 'La la la',
+            singer: 'Cover by VonCKen',
+            path: './assets/music/lalala.mp3',
+            image: './assets/img/lalala.jpg'
+        },
         
     ],
 

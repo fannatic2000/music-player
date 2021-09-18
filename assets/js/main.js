@@ -74,6 +74,13 @@ const app = {
             path: 'https://aredir.nixcdn.com/NhacCuaTui1020/cohenvoithanhxuan-MONSTAR-7050201.mp3?st=kQq7f6bJiH-Yofgq46BsyQ&e=1631937537',
             image: 'https://avatar-nct.nixcdn.com/song/2021/07/16/f/4/9/8/1626425507034.jpg'
         },
+        {
+            name: 'Bản nhạc buồn',
+            singer: 'Bray',
+            path: 'https://f9-stream.nixcdn.com/NhacCuaTui1022/1BanNhacBuon-BRay-7090779.mp3?st=mrRCBNbAVnlZvS9KaYKP9Q&e=1632020724',
+            image: 'https://avatar-nct.nixcdn.com/song/2021/09/17/5/a/b/4/1631868454393_300.jpg'
+        },
+        
     ],
 
     setConfig: function(key, value) {
